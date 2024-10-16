@@ -95,10 +95,10 @@ dev.run_tests()
 cmake --build --target mbox_run_application
 ```
 
-* Using the virtual env:
+* Using the virtual environment:
 
 `<build_directory>/<build_type>/venv/bin/python -m musicbox`
-(on Windows the virtual the path is `<build_directory>/<build_type>/venv/Scripts/python.exe`)
+(on Windows the path is `<build_directory>/<build_type>/venv/Scripts/python.exe`)
 
 * Using the standalone (*not yet available*):
 
